@@ -1,0 +1,3 @@
+D:\BITM  FILE\BITM CLASS\BITM NASIR'S Class Activity\Class5\WindowsFormTicketPurchase\WindowsFormTicketPurchase\bin\Debug\WindowsFormTicketPurchase.exe.config
+D:\BITM  FILE\BITM CLASS\BITM NASIR'S Class Activity\Class5\WindowsFormTicketPurchase\WindowsFormTicketPurchase\obj\Debug\WindowsFormTicketPurchase.exe
+D:\BITM  FILE\BITM CLASS\BITM NASIR'S Class Activity\Class5\WindowsFormTicketPurchase\WindowsFormTicketPurchase\obj\Debug\WindowsFormTicketPurchase.pdb
